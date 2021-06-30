@@ -12,7 +12,10 @@ In this library you'll find everything [or maybe not] about Abstract Data Types 
     * Matrix with some representations like Compressed Sparse Row [CSR] and
       represeented as Vector.
 
-Of course, this shit has nothing to do with what you'll really do
+There are two test's folder with some code for testing it. Don't ask what I
+wrote because it will take too much time to explain.
+
+_DISCLAIMER_: This shit has nothing to do with what you'll really do
 professionally, so take it like an hint for studying and learning.
 
 Enjoy!!
