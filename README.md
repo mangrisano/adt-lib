@@ -13,8 +13,7 @@ In this library you'll find everything [or maybe not] about Abstract Data Types 
       represeented as Vector.
 
 Of course, this shit has nothing to do with what you'll really do
-professionally, so take it like an hint for studying and learning.it like an
-hint for studying and learning.
+professionally, so take it like an hint for studying and learning.
 
 Enjoy!!
 
