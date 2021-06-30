@@ -9,8 +9,7 @@ In this library you'll find everything [or maybe not] about Abstract Data Types 
     * Queue [represented as List and Vector]
     * Binary Tree [represented as Link and Vector]
     * Binary Search Tree
-    * Matrix with some representations like Compressed Sparse Row [CSR] and
-      represeented as Vector.
+    * Matrix CSR [Compressed Sparse Row] and Matrix represented as Vector.
 
 There are two test's folder with some code for testing it. Don't ask what I
 wrote because it will take too much time to explain.
